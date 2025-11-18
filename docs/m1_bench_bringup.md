@@ -19,6 +19,11 @@
 - Hostname set to `lx470-hu`, SSH enabled.
 - First boot successful on DSI display.
 
+## Photos
+![Pi Imager setup for microSD](img/m1/PiImagerSetup.jpg)
+![Pi Imager verification](img/m1/PiImagerVerified.jpg)
+![First boot on DSI console](img/m1/piBootUp.jpg)
+
 ## 3. Audio Bring-Up
 
 - Enabled `dtoverlay=hifiberry-dacplus` in `/boot/firmware/config.txt`.
