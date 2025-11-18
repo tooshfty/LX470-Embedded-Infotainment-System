@@ -54,7 +54,7 @@
 
 **Photos:**
 ![DAC bring up](img/m1/DAC_Bring_Up.jpg)
-![Set sample rate](im/m1/Set_Sample_Rate.jpg)
+![Set sample rate](img/m1/Set_Sample_Rate.jpg)
 ![Speaker test running on bench setup](img/m1/Speaker_Test_0.jpg)
 
 
