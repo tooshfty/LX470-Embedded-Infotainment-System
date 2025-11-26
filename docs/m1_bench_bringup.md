@@ -33,7 +33,7 @@
 ## Photos
 ![Pi Imager setup for microSD](img/m1/PiImagerSetup.jpg)
 ![Pi Imager verification](img/m1/PiImagerVerified.jpg)
-![First boot on DSI console](img/m1/piBootUp.jpg)
+![First boot on DSI console](img/m1/piBootup.jpg)
 
 ## 3. Audio Bring-Up (PCM5122 DAC HAT)
 
