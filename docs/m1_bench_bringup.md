@@ -9,9 +9,11 @@
 - Powered desktop speakers - testing purposes only
 
 ## Photos
-![Hardware laid out for M1](img/m1/supplies_s0.jpg)
-![DAC top view](img/m1/DACTop.jpg)
-![Components mounted to display](img/m1/DACMount.jpg)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="img/m1/supplies_s0.jpg" alt="Hardware laid out for M1" style="width: 30%; height: auto;">
+  <img src="img/m1/DACTop.jpg" alt="DAC top view" style="width: 30%; height: auto;">
+  <img src="img/m1/DACMount.jpg" alt="Components mounted to display" style="width: 30%; height: auto;">
+</div>
 
 ## 2. OS Flashing & First Boot
 
@@ -31,9 +33,11 @@
 - Network configured (eventually got `hostname -I` to show an IP and could SSH in).
 
 ## Photos
-![Pi Imager setup for microSD](img/m1/PiImagerSetup.png)
-![Pi Imager verification](img/m1/PiImagerVerified.png)
-![First boot on DSI console](img/m1/piBootup.jpg)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="img/m1/PiImagerSetup.png" alt="Pi Imager setup for microSD" style="width: 30%; height: auto;">
+  <img src="img/m1/PiImagerVerified.png" alt="Pi Imager verification" style="width: 30%; height: auto;">
+  <img src="img/m1/piBootup.jpg" alt="First boot on DSI console" style="width: 30%; height: auto;">
+</div>
 
 ## 3. Audio Bring-Up (PCM5122 DAC HAT)
 
@@ -53,9 +57,11 @@
 - With speaker volume and gain at 100%, a light hiss was audible (expected behavior of consumer powered speakers at max gain, not a DAC defect).
 
 **Photos:**
-![DAC bring up](img/m1/DAC_Bring_Up.png)
-![Set sample rate](img/m1/Set_Sample_Rate.png)
-![Speaker test running on bench setup](img/m1/Speaker_Test_0.png)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="img/m1/DAC_Bring_Up.png" alt="DAC bring up" style="width: 30%; height: auto;">
+  <img src="img/m1/Set_Sample_Rate.png" alt="Set sample rate" style="width: 30%; height: auto;">
+  <img src="img/m1/Speaker_Test_0.png" alt="Speaker test running on bench setup" style="width: 30%; height: auto;">
+</div>
 
 
 ## Build Notes & Gotchas
