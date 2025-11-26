@@ -31,8 +31,8 @@
 - Network configured (eventually got `hostname -I` to show an IP and could SSH in).
 
 ## Photos
-![Pi Imager setup for microSD](img/m1/PiImagerSetup.jpg)
-![Pi Imager verification](img/m1/PiImagerVerified.jpg)
+![Pi Imager setup for microSD](img/m1/PiImagerSetup.png)
+![Pi Imager verification](img/m1/PiImagerVerified.png)
 ![First boot on DSI console](img/m1/piBootup.jpg)
 
 ## 3. Audio Bring-Up (PCM5122 DAC HAT)
@@ -53,9 +53,9 @@
 - With speaker volume and gain at 100%, a light hiss was audible (expected behavior of consumer powered speakers at max gain, not a DAC defect).
 
 **Photos:**
-![DAC bring up](img/m1/DAC_Bring_Up.jpg)
-![Set sample rate](img/m1/Set_Sample_Rate.jpg)
-![Speaker test running on bench setup](img/m1/Speaker_Test_0.jpg)
+![DAC bring up](img/m1/DAC_Bring_Up.png)
+![Set sample rate](img/m1/Set_Sample_Rate.png)
+![Speaker test running on bench setup](img/m1/Speaker_Test_0.png)
 
 
 ## Build Notes & Gotchas
